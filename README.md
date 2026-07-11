@@ -8,25 +8,6 @@ Split Pilot is a free, account-free shared trip expense tracker. Create a trip, 
 
 Built for friends, families, couples, and travel groups who want to track shared costs without spreadsheets, sign-ups, or app installs.
 
-## See it in action
-
-### Trip overview
-
-One shared place for the whole trip — expenses, transfers, balances, and your private link.
-
-<img src="assets/trip-overview.v1.webp" alt="Trip overview showing expenses, transfers, balances, and the private trip link" width="320">
-
-### Expense splits
-
-Split equally, by parts, or by exact amounts. Split Pilot handles the math for hotels, dinners, cabs, and everything in between.
-
-<img src="assets/expense-split.v1.webp" alt="Expense split screen with equal, parts, and exact amount options" width="320">
-
-### Balances and settlements
-
-See who owes what, get recommended transfers, and record repayments — including quick **Record payment →** links from suggested settlements.
-
-<img src="assets/balances.v1.webp" alt="Balances screen with recommended transfers and record payment links" width="320">
 
 ## Why groups use it
 
@@ -34,12 +15,14 @@ Shared trips get messy fast. Someone pays for fuel, someone else covers dinner, 
 
 Split Pilot keeps everything in one trip:
 
-- No account or login required
+- Free to use — no account, login, or app install required
 - Private trip link for financial participants
 - One participant can represent a family, couple, or paying group
-- Expenses and repayments in one timeline
-- Splits by equal share, parts, or exact amounts
-- Automatic balances and settlement recommendations
+- Record expenses and repayments in one shared trip
+- Split equally, by parts, or by exact amounts
+- Cent-level accuracy — amounts tracked in integer cents so splits and balances add up without rounding drift
+- Automatic balance calculations and recommended settlement transfers
+- Quick **Record payment →** links from suggested settlements
 - Multiple currencies supported at trip level
 - Trip pages excluded from search indexing for privacy
 
