@@ -14,19 +14,19 @@ Built for friends, families, couples, and travel groups who want to track shared
 
 One shared place for the whole trip — expenses, transfers, balances, and your private link.
 
-Trip overview showing expenses, transfers, balances, and the private trip link
+![Trip overview showing expenses, transfers, balances, and the private trip link](assets/trip-overview.v1.webp)
 
 ### Expense splits
 
 Split equally, by parts, or by exact amounts. Split Pilot handles the math for hotels, dinners, cabs, and everything in between.
 
-Expense split screen with equal, parts, and exact amount options
+![Expense split screen with equal, parts, and exact amount options](assets/expense-split.v1.webp)
 
 ### Balances and settlements
 
 See who owes what, get recommended transfers, and record repayments — including quick **Record payment →** links from suggested settlements.
 
-Balances screen with recommended transfers and record payment links
+![Balances screen with recommended transfers and record payment links](assets/balances.v1.webp)
 
 ## Why groups use it
 
